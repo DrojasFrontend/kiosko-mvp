@@ -32,6 +32,10 @@ Las 3 pantallas están pensadas para dispositivos distintos (kiosko/celular del 
 
 ## Deploy
 
-Listo para deployar a Vercel — solo falta cargar `NEXT_PUBLIC_SUPABASE_URL` y `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` como env vars del proyecto en Vercel (los valores están en `.env.local`, no se commitean).
+**Live**: `https://kiosko-mvp-drojasfrontends-projects.vercel.app`
+
+- Repo: `github.com/DrojasFrontend/kiosko-mvp` (**público** — Vercel Hobby bloquea el deploy en repos privados si el autor del commit no matchea la cuenta conectada; no hay secretos en el repo, `.env.local` está gitignorado).
+- Conectado por Git a Vercel: cada push a `main` dispara un deploy automático.
+- Env vars ya cargadas en Vercel (Production/Preview/Development): `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`.
 
 @AGENTS.md
