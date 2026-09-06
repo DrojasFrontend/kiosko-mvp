@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Papas medianas", "precio": 4000, "seleccionado": true },
+  { "id": 2, "nombre": "Ensalada", "precio": 2500, "seleccionado": false },
+  { "id": 3, "nombre": "Dip extra", "precio": 1500, "seleccionado": false },
+  { "id": 4, "nombre": "Papas grandes", "precio": 3500, "seleccionado": false }
+]

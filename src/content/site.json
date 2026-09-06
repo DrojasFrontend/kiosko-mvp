@@ -1,0 +1,12 @@
+{
+  "marca": {
+    "nombre": "Kiosko",
+    "descripcion": "Sitio web para kiosko"
+  },
+  "nav": [
+    { "label": "Inicio", "href": "/" }
+  ],
+  "footer": {
+    "texto": "© 2026 Kiosko. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Coca-Cola", "precio": 4500, "seleccionado": true },
+  { "id": 2, "nombre": "Limonada", "precio": 5000, "seleccionado": false },
+  { "id": 3, "nombre": "Agua", "precio": 3000, "seleccionado": false },
+  { "id": 4, "nombre": "Cerveza", "precio": 7000, "seleccionado": false }
+]
