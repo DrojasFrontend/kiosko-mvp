@@ -69,12 +69,6 @@
 .btn-primary {
   background: linear-gradient(90deg, var(--gradient-from), var(--gradient-to));
   border-color: transparent;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(233, 74, 43, 0.35);
 }
 
 .pulse-ring {
@@ -109,12 +103,6 @@
 .btn-success-gradient {
   background: linear-gradient(90deg, var(--gradient-success-from), var(--gradient-to));
   border-color: transparent;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.btn-success-gradient:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(86, 156, 92, 0.35);
 }
 
 .bg-night {
